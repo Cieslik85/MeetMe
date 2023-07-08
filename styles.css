@@ -57,6 +57,9 @@ h2 {
   border-radius: 5px;
   color: rgb(240, 233, 230);
 }
+ul.skills-list {
+  padding: 0;
+}
 .btn {
   text-decoration: none;
   color: #eaf6f6;
