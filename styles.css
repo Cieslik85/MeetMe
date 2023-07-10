@@ -1,7 +1,7 @@
 body {
   text-align: center;
   margin: 0;
-  font-family: 'DM Sans' sans-serif;
+  font-family: 'DM Sans' , sans-serif;
 }
 hr {
   border: dotted #eaf6f6 6px;
