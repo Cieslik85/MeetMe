@@ -91,6 +91,10 @@ ul.skills-list {
   .top-container h2 {
     padding-bottom: 2rem;
     margin-top: 0;
+    font-size: 2rem;
+  }
+  h1 {
+    font-size: 2rem;
   }
 }
 @media (max-width: 912px) {
