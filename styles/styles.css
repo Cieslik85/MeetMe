@@ -87,12 +87,16 @@ ul.skills-list {
   color: #020202;
   margin: 10px;
 }
-.btn {
+.clickable {
   transition: all .3s ease;
   color: #eaf6f6;
   background-color: #0bd44e;
   padding: 8px;
   border-radius: 5px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);
+}
+.btn {
+  background-color: #0bd44e;
 }
 .btn:hover {
   display: inline-block;
@@ -100,12 +104,7 @@ ul.skills-list {
   background-color: #33b249;
 }
 .projects-div {
-  transition: all .3s ease;
-  color: #eaf6f6;
   background-color: darkseagreen;
-  padding: 8px;
-  border-radius: 5px;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);
 }
 .projects-div:hover {
   display: inline-block;
